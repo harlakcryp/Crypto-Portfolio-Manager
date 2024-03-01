@@ -31,7 +31,7 @@ A simple, open-source Python tool for tracking and managing cryptocurrency inves
 
 ## Quick Start
 1. **Clone the repository**
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/harlakcryp/Crypto-Portfolio-Manager.git
 2. **Install dependencies**
 pip install -r requirements.txt
 3. **Run the application**
